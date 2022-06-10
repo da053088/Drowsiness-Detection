@@ -41,8 +41,8 @@ pip install python
 
 接著就可以下載source code
 ```
-git clone https://github.com/chitgyi/Driver-Drowsiness-Detection-and-Alert-System.git
-cd Driver-Drowsiness-Detection-and-Alert-System
+git clone https://github.com/da053088/Drowsiness-Detection.git
+cd Drowsiness-Detection
 ```
 下載[iBUG](http://dlib.net/files/data/ibug_300W_large_face_landmark_dataset.tar.gz) Datasets 並解壓，然後將解壓後的文件夾重命名為 datasets
 打開train_eye.py
