@@ -177,7 +177,5 @@ https://www.cnblogs.com/wuliytTaotao/p/14594178.html
 ## 附錄
 [Colab源碼](https://colab.research.google.com/drive/1OGqMMGwmd07cFM6aFz57qQiX9Iv33pso)
 需先將訓練好的.dat檔以及想測試的影片片段放置在自己的雲端硬碟的目錄中
-如果沒有訓練好的.dat檔，可先[下載](https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2)"# Drowsiness-Detection" 
-#� �D�r�o�w�s�i�n�e�s�s�-�D�e�t�e�c�t�i�o�n�
-�
-�
+如果沒有訓練好的.dat檔，可先[下載](https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2)
+
